@@ -8,7 +8,7 @@
   "server": {
     "ip": "haryali.aternos.me:21930",
     "port": 21930,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
