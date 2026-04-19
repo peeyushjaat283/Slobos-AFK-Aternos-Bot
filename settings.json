@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "haryali.aternos.me",
+    "ip": "haryali.aternos.me:21930",
     "port": 21930,
     "version": "",
     "try-creative": false
